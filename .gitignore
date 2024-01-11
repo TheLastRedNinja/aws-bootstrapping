@@ -1,0 +1,8 @@
+.envrc.private
+.idea/*
+.idea
+.idea/workspace
+*.tfstate*
+**/.terraform*
+!**/.terraform-version
+!**/.terraform.lock.hcl
